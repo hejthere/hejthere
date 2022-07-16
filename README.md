@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Connie</h1>
-<h3 align="left">A passionate frontend developer from Hong Kong</h3>
+# Hi 👋, I'm Connie
+<h2 align="left">A passionate frontend developer from Hong Kong</h3>
 
 
 # 💻 Tech Stack:
